@@ -1,0 +1,5 @@
+----------------------------------------部署须知
+修改.env中的数据库连接，附加数据库
+站点目录指向\public
+I: & cd I:\work\project\laravel\study_enjoy
+composer install
